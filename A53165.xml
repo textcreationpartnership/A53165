@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epicedium, or, A funeral elegy on the death of our late gracious soveraign by S.O.</title>
+            <author>Strategia e organizzazione (Firm)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53165</idno>
+            <idno type="STC">Wing O10</idno>
+            <idno type="STC">ESTC R28738</idno>
+            <idno type="EEBO-CITATION">10750082</idno>
+            <idno type="OCLC">ocm 10750082</idno>
+            <idno type="VID">45647</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53165)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45647)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1407:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Epicedium, or, A funeral elegy on the death of our late gracious soveraign by S.O.</title>
+                  <author>Strategia e organizzazione (Firm)</author>
+                  <author>Ogden, Samuel, 1628?-1697.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Everingham,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Sometimes attributed to Samuel Ogden.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45647:1"/>
+            <!-- PDF PAGE 13 -->
+            <pb facs="tcp:45647:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <p>
+               <hi>Epicedium,</hi> OR, A FUNERAL ELEGY ON THE DEATH Of our Late Gracious Soveraign.</p>
+            <p>By <hi>S. O.</hi>
+            </p>
+            <q>
+               <l>Tum vero exarſit juveni dolor Oſſibus ingens,</l>
+               <l>Nec Lachrymis caruere Genae.</l>
+               <bibl>
+                  <hi>Virg.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Everingham</hi> at the Sign of the <hi>Star,</hi> at the <hi>Weſt</hi> End of St. <hi>Pauls Church-Yard,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:45647:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <pb n="1" facs="tcp:45647:2"/>
+            <!-- PDF PAGE 14 -->
+            <head>
+               <hi>Epicedium,</hi> OR, A FUNERAL ELEGY On the DEATH of our late Gracious Soveraign.</head>
+            <lg>
+               <l>
+                  <hi>ALBION</hi>'s hard Fate with equal Tears I mourn,</l>
+               <l>Ye Muſes! Will ye to your Seats return?</l>
+               <l>Or kindlier will ye chooſe her ſummets, where</l>
+               <l>Unhappy Subjects call for all your Care?</l>
+               <l>Full high they are, and all the Seaſons white;</l>
+               <l>Tho' now, ſad Emblems of her paſt delight,</l>
+               <pb n="2" facs="tcp:45647:3"/>
+               <!-- PDF PAGE 15 -->
+               <l>Eternal black ſhall all their Brows Adorn.</l>
+               <l>Ah Muſe! to thoſe far diſtant ſhades return,</l>
+               <l>No more —</l>
+               <l>But help th' afflicted Suppliant to Mourn.</l>
+               <l>See! what a Proſpect yield the Raging Seas?</l>
+               <l>
+                  <hi>Pindus</hi> and <hi>Athos</hi> too muſt yield to theſe.</l>
+               <l>What? tho' fair Flocks in Paſtures more than Fair,</l>
+               <l>Rove, and enrich the faithful Shepherds there.</l>
+               <l>Turn from the Sea and here are fairer here.</l>
+               <l>No Mildews here with their malicious Blight,</l>
+               <l>Yet ever interrupted our delight.</l>
+               <l>No droughts diverted yet the Amorous Swain,</l>
+               <l>But all was laviſhly ſupply'd with Rain:</l>
+               <l>Till bleſt <hi>Maria</hi> taught his Muſe to Moan;</l>
+               <l>For Heaven finds little good now ſhe is gone.</l>
+               <l>Attend, my Flocks, attend me to yon Bower,</l>
+               <l>Our more auſpicious Covert heretofore;</l>
+               <l>When I in Numbers, kindly as the Shade,</l>
+               <l>Of <hi>Pans</hi> vaſt love eternal Leſſons plaid.</l>
+               <l>The liſtning Rills like you attentive ſtood,</l>
+               <l>Forgat their Courſe, as you forgat your Food:</l>
+               <l>But now uncharm'd, they may for ever flow,</l>
+               <l>For nought but Melancholy pleaſes now.</l>
+               <l>Ye Swains! by long experience ſadly taught,</l>
+               <l>At what expence Enjoyments dearly bought;</l>
+               <pb n="3" facs="tcp:45647:3"/>
+               <!-- PDF PAGE 15 -->
+               <l>Tell me your griefs, when haggard Wolves break in:</l>
+               <l>But ah! compare them not at all with mine.</l>
+               <l>Mine like rough Torrents ruffle every Field;</l>
+               <l>Reaſon and Senſe it ſelf is forc'd to yield.</l>
+               <l>True Grief like Love, its ſource, the Bitt diſdains;</l>
+               <l>Ruggid as Whirlwinds roling o're the Plains.</l>
+               <l>Such too is mine. Ye wandring Goats revere,</l>
+               <l>And own my Paſſion, while the truth ye hear!</l>
+               <l>See if the Haughty Neatherds don't lament,</l>
+               <l>And own her Glories, now they find the want.</l>
+               <l>So the blind Wretch oft by experience knows,</l>
+               <l>The Sun has Vertues which the Blinde may loſe.</l>
+               <l>Oft with too God-like Candour them diſtreſt,</l>
+               <l>She from her ſingular compaſſion bleſt.</l>
+               <l>No Foe deſerving, ſhe would none allow,</l>
+               <l>And thence forgave, till't to preſumption grew.</l>
+               <l>Leſs goodneſs Savages of old could tame,</l>
+               <l>Th' inrag'd aſſwage, and the provok'd reclaim.</l>
+               <l>But, that my Love appear not to impoſe;</l>
+               <l>Attend, ye Groves, and ſhe'll command applauſe.</l>
+            </lg>
+            <lg>
+               <l>Firſt then, for well the Gods the firſt require,</l>
+               <l>Let Emulous Souls her Piety admire:</l>
+               <l>Her Piety the Phoſphor of our Day,</l>
+               <l>Which drove the gathering Foggs of Vice away.</l>
+               <pb n="4" facs="tcp:45647:4"/>
+               <!-- PDF PAGE 16 -->
+               <l>No luſcious Equivoqu'e e're gain'd her Ear,</l>
+               <l>Nor ought that would the leaſt corruption bear.</l>
+               <l>Such pardon wanted, who in former Courts</l>
+               <l>Were falſe Wits Apes and mercenary Sports.</l>
+               <l>Ye Reverend Souls! who willingly did wait</l>
+               <l>To hear, and not to teach, Truths truly great,</l>
+               <l>Say if ye did not oft her Pallace chooſe,</l>
+               <l>And hardly erring offer up your Vows.</l>
+               <l>For in ſtrict reaſon, 'twould a queſtion bear,</l>
+               <l>Which moſt was Gods, or moſt the Houſe of Prayer.</l>
+               <l>Fixt as the Morning, Evening and the Night,</l>
+               <l>By choice, not force or cuſtome render'd ſweet,</l>
+               <l>Fixt were her Prayers, and fixt her beſt delight.</l>
+               <l>What her Petition was, what e're her Prayer,</l>
+               <l>Kind Heaven alike officious ſeem'd to hear.</l>
+               <l>Ah happy Swains! ye then the Bleſſings found,</l>
+               <l>Your Herds with Young, your Fields with plenty Crown'd:</l>
+               <l>But with the Object all your Joys muſt ceaſe,</l>
+               <l>Ah wretched Swains! deplore your ſad diſtreſs.</l>
+            </lg>
+            <lg>
+               <l>Her prudence next: But can a Verſe comprize:</l>
+               <l>The Strength and Admiration of the Wiſe?</l>
+               <l>Can things immenſe to humble Bonds ſubmit?</l>
+               <l>Or finite Verſe confine the Infinite?</l>
+               <pb n="5" facs="tcp:45647:4"/>
+               <!-- PDF PAGE 16 -->
+               <l>View Her in every ſtate as Queen or Wife,</l>
+               <l>Ye Powers! how wonderful was all her Life?</l>
+               <l>Thoſe Fertil Medows were not half ſo fair,</l>
+               <l>And it ſurpaſt the Chryſtal Currents near.</l>
+               <l>Thoſe Deeps bore ſome reſemblance with her Mind,</l>
+               <l>But that it brav'd the efforts of every Wind.</l>
+               <l>No Guſts could ruffle, or efface her Charms,</l>
+               <l>Religion ſafe, and <hi>Pan</hi> within her Arms.</l>
+               <l>But ah! no more, the Hero now no more</l>
+               <l>Muſt with the Pow'rs and Her divide His pow'r.</l>
+               <l>Tho' then the Swains ſafe in their Grottos ſate,</l>
+               <l>While <hi>Pan</hi> ſecur'd and ſhe endear'd their Fate:</l>
+               <l>While <hi>Pan</hi> for Forrigne Good forgat his Eaſe,</l>
+               <l>She teaching us the ſacred Rights of Peace:</l>
+               <l>Tho with ſuch Wiſdom he could ſafely truſt</l>
+               <l>His Crown, the ſacred Wages of the Juſt:</l>
+               <l>Yet now Himſelf the pondrous Load muſt bear;</l>
+               <l>Loſt as he has (O fatal News to hear)</l>
+               <l>The Partner of his Wiſdom and his Care.</l>
+            </lg>
+            <lg>
+               <l>Go on my Muſe: Next tell the fairer Train,</l>
+               <l>What Conqueſts Vertue o're the World could gain.</l>
+               <l>By bravely graſping after things Divine,</l>
+               <l>Tell how ſhe made ev'n Crowns and Scepters ſhine.</l>
+               <pb n="6" facs="tcp:45647:5"/>
+               <!-- PDF PAGE 17 -->
+               <l>Terrene Ambition ne're one Thought miſled;</l>
+               <l>Or idle Hopes by idler Fancies bred.</l>
+               <l>If ſhe was great, if ſhe was <hi>Atlas</hi> high,</l>
+               <l>'Twas her own Merit and our Neceſſity,</l>
+               <l>That firſt obtain'd all-pitying Heavens Decree.</l>
+               <l>Grandeur ſhe ſought not, nor deſir'd a Crown:</l>
+               <l>Thoſe Mercies were, and bounteous Heaven's alone.</l>
+               <l>It knew our Wants, and daign'd its Jew'l to ſpare:</l>
+               <l>But ah! how tranſient our Enjoyments were?</l>
+               <l>Juſt when our Harveſt look'd maturely White,</l>
+               <l>Black Mildews blaſted all our coy Delight.</l>
+               <l>Ah fatal Loſs! which Time can ne're repair!</l>
+               <l>Ye Streams a while with human weakneſs bear!</l>
+               <l>I'le after ſo encreaſe your ebbing Tide,</l>
+               <l>Your Sire the Sea ſhall own himſelf ſupply'd.</l>
+               <l>Ah generous <hi>Thames!</hi> tho Milions can't decreaſe</l>
+               <l>Thy Stores, nor Duty make thy Glories leſs.</l>
+               <l>Yet not thy bounty may with Hers compare,</l>
+               <l>Thy Millions more than trebled liv'd by her.</l>
+               <l>The Gods, the mighty Gods, that we adore,</l>
+               <l>Outpaſt Her Bounty only by their Power.</l>
+               <l>High as their Heavens, She did alike diſpenſe</l>
+               <l>To humbleſt things her ſacred Influence.</l>
+               <pb n="7" facs="tcp:45647:5"/>
+               <!-- PDF PAGE 17 -->
+               <l>Ne're ſhone the Sun with like diffuſive Rays,</l>
+               <l>Ne're to more generous labour did he preſs,</l>
+               <l>Or Nature with more geneal Beams careſs.</l>
+               <l>The Poor were moſt her Friends, and moſt her care,</l>
+               <l>And Widdows more than Husbands loſt in Her.</l>
+               <l>No Orphan ever begg'd her ſmiles in vain:</l>
+               <l>Scarce ſhe could ſooner of her Heav'n obtain.</l>
+               <l>Now mournful <hi>Thames</hi> on to thy duty go,</l>
+               <l>And tell the Sea the cauſe of all our Woe;</l>
+               <l>Or melting Rocks will force thy overflow.</l>
+            </lg>
+            <lg>
+               <l>For ſay, my Muſe canſt thou that Task deſign,</l>
+               <l>Where Angels in our Admiration joyn?</l>
+               <l>For round their ſacred Pallaces above,</l>
+               <l>They found not kinder or ſincerer Love.</l>
+               <l>One were their Souls, one e'ne in ſympathy;</l>
+               <l>For never were they known to diſagree.</l>
+               <l>One their Enjoyments, their Afflictions one,</l>
+               <l>One their Diverſions, or in this alone</l>
+               <l>Their faithful paſſions ſomewhat different had:</l>
+               <l>Where his lov'd ſafety and her Sex forbad.</l>
+               <l>In all the reſt, Heaven fram'd them ſo intire,</l>
+               <l>Like one they hate, they pitty and admire.</l>
+               <l>Heat could not more Eſſential be to Fire.</l>
+               <pb n="8" facs="tcp:45647:6"/>
+               <!-- PDF PAGE 18 -->
+               <l>O <hi>Salem</hi>'s Sons! I here to you appeal,</l>
+               <l>The beſt believ'd, you beſt the Truth can tell.</l>
+               <l>Near the dejected Prince, as ſad, ye ſtood</l>
+               <l>Divideing, yet not leſſening his Load,</l>
+               <l>When the fear'd News from her Apartment fled,</l>
+               <l>The Queen, alaſs, the Queen, the Queen is Dead.</l>
+               <l>No ſecond Summons blam'd his tardy Soul,</l>
+               <l>'Twas ſtraight on Wing t' obey its Partner's call.</l>
+               <l>Scarce She, who firſt the nice diſcovery made,</l>
+               <l>Of our laſt wellfare carefull, could perſwade</l>
+               <l>Its ſtay—</l>
+               <l>And firſt was diſcontentedly obey'd.</l>
+            </lg>
+            <lg>
+               <l>No more my Muſe to things beyond thy Pow'r,</l>
+               <l>With treacherous Inſolence pretend no more.</l>
+               <l>Firſt, tell the Sands that round the Ocean lie,</l>
+               <l>Or name the Fountains that compoſe the Sea.</l>
+               <l>Then I'le allow thee fit, and thee alone,</l>
+               <l>To ſing what <hi>Maro</hi> had with trembling Sung.</l>
+               <l>To tell her Vertues, and the Nations loſs:</l>
+               <l>Thoſe beſt compar'd with that, and that with thoſe.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45647:6"/>
+            <!-- PDF PAGE 18 -->
+         </div>
+      </body>
+   </text>
+</TEI>
